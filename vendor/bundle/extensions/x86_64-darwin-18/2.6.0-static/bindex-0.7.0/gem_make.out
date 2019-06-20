@@ -1,0 +1,15 @@
+current directory: /Users/ichikawatomoko/Desktop/image_uploader_test_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/ichikawatomoko/.rbenv/versions/2.6.3/bin/ruby -I /Users/ichikawatomoko/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190619-2643-ffr47o.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ichikawatomoko/Desktop/image_uploader_test_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ichikawatomoko/Desktop/image_uploader_test_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/ichikawatomoko/Desktop/image_uploader_test_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190619-2643-gh7tjs/skiptrace
